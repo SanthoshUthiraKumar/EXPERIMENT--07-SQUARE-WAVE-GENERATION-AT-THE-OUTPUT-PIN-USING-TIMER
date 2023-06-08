@@ -229,6 +229,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif 
 ```
 ## Output screen shots of proteus  :
+![Sandy](https://github.com/SanthoshUthiraKumar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119477975/4b1d36f1-79aa-4824-85d0-e7b6727df1e0)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
